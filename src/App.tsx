@@ -67,7 +67,7 @@ function App() {
             <NewNote
               onSubmit={onCreateNote}
               onAddTag={addTag}
-              availableTage={tags}
+              availableTags={tags}
             />
           }
         />
